@@ -1,0 +1,19 @@
+.jumbo{
+    background-image: url(/assets/images/BGT.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    text-shadow: 2px 2px 20px white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 85vh;
+    margin-bottom: 0;
+    border-bottom: 2px solid black;
+}
+
+section h1{
+    background-color: gold;
+    border-radius: 15px;
+}

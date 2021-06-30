@@ -1,0 +1,31 @@
+.footer-content{
+    color: firebrick;
+    background-color: gold;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    height: 85vh;
+}
+
+.social-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.contact-us{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-container a{
+    text-decoration: none;
+    margin: 0.3em;
+}
+
+.social img{
+    height: 5vh;
+}

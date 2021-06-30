@@ -1,0 +1,14 @@
+nav{
+    height: 15vh;
+    border-bottom: 2px solid white;
+}
+
+.logo{
+    font-size: 2em;
+}
+
+main{
+    height:85vh;
+    display: flex;
+    flex-direction: column;
+}

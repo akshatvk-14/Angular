@@ -1,0 +1,11 @@
+.carousel-inner img{
+    height: 85vh;
+    object-fit: cover;
+}
+
+.carousel-inner h5{
+    display: inline;
+    background-color: gold;
+    padding: 0.5em;
+    border-radius: 0.5em;
+}
